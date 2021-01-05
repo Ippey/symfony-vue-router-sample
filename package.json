@@ -16,7 +16,7 @@
         "build": "encore proction --progress"
     },
     "dependencies": {
-        "axios": "^0.19.1",
+        "axios": "^0.21.1",
         "bootstrap": "^4.4.1",
         "bootstrap-vue": "^2.4.0",
         "serverless-pseudo-parameters": "^2.5.0",
